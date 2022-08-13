@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//contantes
+//constantes
 #define N_REGIONES 10
 
 struct Region{
